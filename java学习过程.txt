@@ -1,0 +1,27 @@
+第一阶段：Java基础及数据库基础
+课程内容：J2SE，Mysql数据库，JDBC，J2se项目学习
+课程目标：掌握Java基础，掌握Java面向对象，掌握Eclispe(Myeclipse)的使用以及Eclipse的断点调试，了解Swing，掌握Mysql数据库，掌握JDBC；Swing项目学习
+
+第二阶段：网页基础
+课程内容：Html,Css,Javascript基础
+课程目标：熟悉Html,Css,Javascript，能看懂网页代码，及能够修改网页代码；
+
+第三阶段：Jsp&Servlet动态网页技术
+课程内容：Jsp,Servlet
+课程目标：掌握Jsp,Servlet，Jsp&Servlet项目学习
+
+第四阶段：富客户端技术
+课程内容：JavaScript基于对象知识，Json，Ajax,Jquery,EasyUI ,xml,Jsp+Servlet+Easyui项目学习
+课程目标：掌握JavaScript基于对象知识,Ajax,EasyUI，
+
+第五阶段：JavaWeb框架学习
+课程内容：Struts2,Hibernate,Spring，SpringMvc，Mybatis，S2Sh项目学习，SpringMvc+Mybatis项目学习
+课程目标：掌握S2Sh整合开发以及SpringMvc+Mybatis整合开发
+
+第六阶段：第三方组件学习
+课程内容：Poi，ActiveMQ，JFreeChart，Maven3，Shiro，Lucene5
+课程目标：掌握使用这些组件
+
+第七阶段：Oracle数据库学习
+课程内容：Oracle
+课程目标：掌握Oracle基本原理和应用
